@@ -23,7 +23,7 @@ O **Validador de Força de Senhas** é um script em Ruby que ajuda você a verif
 
 ## ˚.🎀༘⋆ Como usar
 
-1. Clone ou baixe este repositório:
+1. Clone ou baixe este repositório: git clone https://github.com/maryavila/validador-senha.git
   
 2. Execute o script no terminal: ruby validador.rb
 
